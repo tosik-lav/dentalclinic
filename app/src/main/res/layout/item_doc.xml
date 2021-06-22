@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/item_rv">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5sp">
+
+        <TextView
+            android:id="@+id/tvFullName"
+            style="@style/list_item"
+            android:hint="@string/FullName_item"
+            android:textColor="@color/purple_700"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="10sp">
+
+        <TextView
+            android:id="@+id/tvPosition"
+            style="@style/list_item"
+            android:hint="@string/Position"
+            android:textColor="@color/colorPrimaryDark"/>
+
+        <TextView
+            android:id="@+id/tvCategory"
+            style="@style/list_item"
+            android:hint="@string/Category" />
+
+        <TextView
+            android:id="@+id/tvWorkingHours"
+            style="@style/list_item"
+            android:hint="@string/WorkingHours"/>
+
+        <TextView
+            android:id="@+id/tvPhone"
+            style="@style/list_item"
+            android:hint="@string/Phone"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+
+</LinearLayout>

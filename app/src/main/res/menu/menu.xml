@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item-->
+<!--        android:id="@+id/Services"-->
+<!--        android:title="@string/services" />-->
+    <item
+        android:id="@+id/Price"
+        android:title="@string/Price" />
+<!--    <item-->
+<!--        android:id="@+id/Location"-->
+<!--        android:title="@string/location" />-->
+    <item
+        android:id="@+id/Exit"
+        android:title="@string/Exit" />
+</menu>

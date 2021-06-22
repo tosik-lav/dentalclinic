@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dental clinic Smile</string>
+
+    <string name="AboutUs">О нас</string>
+    <string name="services">Услуги</string>
+    <string name="Price">Цены</string>
+    <string name="location">Местоположение</string>
+    <string name="Exit">Выход</string>
+
+    <string name="btnRegistration">Регистрация</string>
+    <string name="btnSignIn">Войти</string>
+
+    <string name="Note">Записаться</string>
+    <string name="Schedule">График работы</string>
+    <string name="Position">Должность</string>
+    <string name="Category">Категория</string>
+    <string name="WorkingHours">Время работы</string>
+    <string name="FullName_item">ФИО</string>
+
+    <string name="Phone">Телефон</string>
+
+    <string name="Name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="surName">Фамилия</string>
+    <string name="btnOk">Ok</string>
+</resources>
